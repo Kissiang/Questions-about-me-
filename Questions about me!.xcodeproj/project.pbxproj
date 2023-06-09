@@ -11,6 +11,8 @@
 		BD0B00552A337CEF00195A45 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0B00542A337CEF00195A45 /* ContentView.swift */; };
 		BD0B00572A337CF000195A45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD0B00562A337CF000195A45 /* Assets.xcassets */; };
 		BD0B005A2A337CF000195A45 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD0B00592A337CF000195A45 /* Preview Assets.xcassets */; };
+		BD0B00612A337D3000195A45 /* Page2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0B00602A337D3000195A45 /* Page2.swift */; };
+		BD0B00632A337D9200195A45 /* page3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD0B00622A337D9200195A45 /* page3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BD0B00542A337CEF00195A45 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD0B00562A337CF000195A45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD0B00592A337CF000195A45 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD0B00602A337D3000195A45 /* Page2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2.swift; sourceTree = "<group>"; };
+		BD0B00622A337D9200195A45 /* page3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = page3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				BD0B00522A337CEF00195A45 /* Questions_about_me_App.swift */,
 				BD0B00542A337CEF00195A45 /* ContentView.swift */,
+				BD0B00602A337D3000195A45 /* Page2.swift */,
+				BD0B00622A337D9200195A45 /* page3.swift */,
 				BD0B00562A337CF000195A45 /* Assets.xcassets */,
 				BD0B00582A337CF000195A45 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				BD0B00552A337CEF00195A45 /* ContentView.swift in Sources */,
 				BD0B00532A337CEF00195A45 /* Questions_about_me_App.swift in Sources */,
+				BD0B00632A337D9200195A45 /* page3.swift in Sources */,
+				BD0B00612A337D3000195A45 /* Page2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
